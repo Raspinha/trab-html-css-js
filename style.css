@@ -1,0 +1,92 @@
+body{
+    background-color: #666666;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+header{
+    background-color: lightgray;
+    width: 90%;
+    padding: 20px;
+    margin: auto;
+    border: black 1px solid;
+}
+
+main{
+    background-color: white;
+    width: 90%;
+    padding: 20px;
+    margin: auto;
+    border: black 1px solid;
+    box-shadow: 0px 0px 10px;
+    margin-top: 12px;
+}
+
+h1{
+    color: #000066;
+    font-weight: normal;
+}
+
+h2{
+    color: #0080C0;
+    font-weight: normal;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+    text-transform: uppercase;
+    font-size: 10.5pt;
+}
+a:hover{
+    font-style: italic;
+}
+
+form{
+    padding-top: 50px;
+}
+
+p{
+    font-size: 11pt;
+    text-align: justify;
+    text-indent: 50px;
+    line-height: 16pt;
+}
+
+address{
+    font-size: 10pt;
+    text-align: center;
+    font-style: normal;
+}
+
+.div1{
+    display: inline-block;
+    padding: 5px;
+    padding-left: 60px;
+    text-align: center;
+    font-size: 11pt;
+}
+
+input#corsubtit, #corparag, #corlinks{
+    margin-top: 7px;
+    margin-bottom: 5px;
+}
+
+input#corfundopag, #corfundotexto, #cortituloprinc{
+    margin-bottom: 5px;
+}
+
+input#maior, #menor{
+    width: 25px;
+    margin-top: 5px;
+    margin-bottom: 40px;
+}
+
+.div2{
+    display: inline-block;
+    padding: 5px;
+    padding-left: 180px;
+    text-align: center;
+    font-size: 11pt;
+}
+
+
